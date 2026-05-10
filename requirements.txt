@@ -9,3 +9,8 @@ scikit-image
 torch 
 torchvision
 transformers
+torch 
+torchvision 
+plotly 
+diffusers
+accelerate
